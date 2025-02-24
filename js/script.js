@@ -1,3 +1,5 @@
+// Nathan Smith
+// Assignment01
 // STEP 1
 // Convert the following identifiers to Camel Case notation:
 let someMonth;
